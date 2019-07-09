@@ -51,14 +51,9 @@ We encourage everybody to look at the issues, and try to add things to them:
 
 Hopefully, some of the ideas will have good discussion and will eventually progress beyong the "half-baked" stage ... we will want to move forward with them. We'd like to define a semi-formal but lightweight process for "nominating" ideas for consideration as proposals.
 
-The [IPFS Project Working Group](https://github.com/ipfs/project#ipfs-project-working-group) meets publicly every week, and would be an ideal place to present proposals and make some decisions about which ones to promote to active mini-projects.
+As of 2019 Q3, there are no resources allocated to work on these projects, but feel free to use this repo as a place to collect ideas.
 
-As we incubate this process, the following resources are available to work on the selected mini-projects:
-
-* Jim Pick (Dynamic Data and Capabilities WG)
-  * April: 1 mini-project
-  * May: 2 mini-projects
-  * June: 1 mini-project
+Also please use [ipfs/notes](https://github.com/ipfs/notes) as a place for new ideas!
 
 # Final notes
 
